@@ -1,0 +1,32 @@
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Blobdetails.exe.config
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Blobdetails.exe
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Blobdetails.pdb
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\obj\Debug\Blobdetails.csprojAssemblyReference.cache
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\obj\Debug\Blobdetails.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\obj\Debug\Blobdetails.csproj.CopyComplete
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\obj\Debug\Blobdetails.exe
+C:\Users\Allan\source\repos\Blobdetails\Blobdetails\obj\Debug\Blobdetails.pdb
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Blobdetails.exe.config
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Blobdetails.exe
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Blobdetails.pdb
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\obj\Debug\Blobdetails.csprojAssemblyReference.cache
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\obj\Debug\Blobdetails.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\obj\Debug\Blobdetails.csproj.CopyComplete
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\obj\Debug\Blobdetails.exe
+C:\Users\Allan\source\repos\Blobdetails - lease\Blobdetails\obj\Debug\Blobdetails.pdb

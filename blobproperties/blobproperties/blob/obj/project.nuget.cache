@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2qPVJg0QqDYcVDhi/y9g+Q9BO9pRfoFZvztyB6qNF63EEUPx8NQO33eUHPkRdvXfkxCz+z21ZJQmzeNAiTtbw==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\7. AZ-204\\new\\Lab - Azure Blob - Properties and metadata\\blobproperties\\blob\\blobproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.core\\1.2.0\\azure.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.storage.blobs\\12.4.1\\azure.storage.blobs.12.4.1.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\azure.storage.common\\12.4.0\\azure.storage.common.12.4.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ashwell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

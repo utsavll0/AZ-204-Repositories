@@ -1,0 +1,15 @@
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.exe
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.csprojAssemblyReference.cache
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.AssemblyInfoInputs.cache
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.AssemblyInfo.cs
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.deps.json
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.runtimeconfig.json
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.runtimeconfig.dev.json
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.dll
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\EventGrid-Topic.pdb
+C:\App\EventGrid-Topic\EventGrid-Topic\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.csproj.CoreCompileInputs.cache
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.csproj.CopyComplete
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.dll
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.pdb
+C:\App\EventGrid-Topic\EventGrid-Topic\obj\Debug\netcoreapp3.1\EventGrid-Topic.genruntimeconfig.cache

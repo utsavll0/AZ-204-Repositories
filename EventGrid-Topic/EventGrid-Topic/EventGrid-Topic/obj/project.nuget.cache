@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STwHXzhdVXOjPGNKckhx7d8v7NC5gZqWuC4SRPPrcUK5sltc8zSywVDJlIUa6LaXPVnlcxEUkR7nfs6n+yD1eQ==",
+  "success": true,
+  "projectFilePath": "C:\\App\\EventGrid-Topic\\EventGrid-Topic\\EventGrid-Topic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
